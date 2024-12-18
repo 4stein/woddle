@@ -74,7 +74,7 @@ const HomeScreen = () => {
   return (
     <>
       {data && (
-        <SafeAreaView>
+        <SafeAreaView style={styles.bg}>
           <ScrollView
             contentInsetAdjustmentBehavior="automatic"
             style={styles.container}>
@@ -92,6 +92,9 @@ const HomeScreen = () => {
 
 // Styles for layout and container configuration
 const styles = StyleSheet.create({
+  bg: {
+    backgroundColor: '#fff',
+  },
   container: {
     paddingHorizontal: 20,
     backgroundColor: '#fff',

@@ -9,6 +9,10 @@ A React Native mobile application for tracking baby's daily activities, mileston
 - Node.js (v14 or higher)
 - Yarn package manager
 - React Native development environment setup
+- CocoaPods (for iOS development)
+  ```bash
+  sudo gem install cocoapods
+  ```
 
 ### Installation
 
@@ -23,6 +27,12 @@ cd woddle
 
 ```bash
 yarn install
+```
+
+3. Install iOS dependencies:
+
+```bash
+cd ios && pod install && cd ..
 ```
 
 ### Running the Application
@@ -57,7 +67,7 @@ yarn android
 
 ## Tech Stack
 
-### Backend Mock 
+### Backend Mock
 
 - **JSON Server**: Lightweight mock backend that transforms a JSON file into a RESTful API
   - Located in `db.json`

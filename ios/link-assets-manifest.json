@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CabinBold.ttf",
+      "sha1": "46ae5c35cdc3e34849350499a071ac6dd2a5859d"
+    },
+    {
+      "path": "src/assets/fonts/CabinRegular.ttf",
+      "sha1": "88653633af9170e8625e72bc1d53ef3da29b741c"
+    },
+    {
+      "path": "src/assets/fonts/RibeyeRegular.ttf",
+      "sha1": "b46f0c21be55e9b35109e4da36903751b71034bf"
+    },
+    {
+      "path": "src/assets/fonts/RobotoLight.ttf",
+      "sha1": "02970068cbc5b4daf5b530e994a5b6f547d03bc1"
+    },
+    {
+      "path": "src/assets/fonts/RobotoRegular.ttf",
+      "sha1": "ce57fc6c6705cb20661ac325fac5d4598b6efbca"
+    }
+  ]
+}

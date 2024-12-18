@@ -1,0 +1,75 @@
+{
+  "data": {
+    "topBar": {
+      "logo": "Woddle",
+      "avatar": 3
+    },
+    "slider": [
+      {
+        "id": 1,
+        "name": "Christian Bowen",
+        "age": "1y 2m",
+        "image": 4,
+        "icon": 5
+      },
+      {
+        "id": 2,
+        "name": "Christian Bowen",
+        "age": "1y 1m",
+        "image": 4,
+        "icon": 5
+      }
+    ],
+    "cards": [
+      {
+        "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+        "title": "Weight",
+        "description1": "15 lbs",
+        "description2": "3 oz",
+        "isBigDescription1": false,
+        "isBigDescription2": false,
+        "bottomText": "1:00 PM Dec 05 2023",
+        "color": "#FFF5DC"
+      },
+      {
+        "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+        "title": "Diaper",
+        "description1": "Pee",
+        "description2": "Medium",
+        "isBigDescription1": true,
+        "isBigDescription2": true,
+        "bottomText": "2h 55m ago",
+        "color": "#EFF1FF"
+      },
+      {
+        "id": "58694a0f-3da1-471f-bd96-145571e29d72",
+        "title": "Feeding",
+        "description1": "Formula",
+        "description2": "5oz",
+        "isBigDescription1": true,
+        "isBigDescription2": false,
+        "bottomText": "2h 30m ago",
+        "color": "#FFEEE7"
+      },
+      {
+        "id": "5869440f-3da1-471f-bd96-145571e29d72",
+        "title": "Sleep",
+        "description1": "2h 20m",
+        "description2": "",
+        "isBigDescription1": false,
+        "isBigDescription2": false,
+        "bottomText": "3h 35m ago",
+        "color": "#F8EEFF"
+      }
+    ],
+    "callToAction": {
+      "image": 6
+    },
+    "milestone": {
+      "title": "Milestones",
+      "description": "Month 12",
+      "image": 7,
+      "imageArrow": 8
+    }
+  }
+}

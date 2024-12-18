@@ -57,7 +57,7 @@ yarn android
 
 ## Tech Stack
 
-### Backend Mock
+### Backend Mock 
 
 - **JSON Server**: Lightweight mock backend that transforms a JSON file into a RESTful API
   - Located in `db.json`

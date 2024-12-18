@@ -6,7 +6,7 @@ A React Native mobile application for tracking baby's daily activities, mileston
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v14 or higher) 
 - Yarn package manager
 - React Native development environment setup
 - CocoaPods (for iOS development)
